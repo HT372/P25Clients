@@ -190,3 +190,6 @@
 
 # 214 SPAIN P25 Reflector
 214 214p25.xreflector.es 41000
+
+# 37225 HAITI P25 Reflector
+37225	3.133.96.63		41000
